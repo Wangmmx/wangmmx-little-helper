@@ -1,0 +1,24 @@
+{
+  "name": "wangmmx-little-helper",
+  "version": "1.0.0",
+  "description": "Some commonly used life computing services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangmmx/wangmmx-little-helper.git"
+  },
+  "keywords": [
+    "helper",
+    "calendar",
+    "Calculator"
+  ],
+  "author": "wangmmx725",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wangmmx/wangmmx-little-helper/issues"
+  },
+  "homepage": "https://github.com/Wangmmx/wangmmx-little-helper#readme"
+}
